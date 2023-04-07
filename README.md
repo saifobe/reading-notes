@@ -3,7 +3,7 @@
 
 | Repository  |     Link    |
 | ----------- | ----------- |
-|    SQL      |[LearnSQL]( )|
+|    SQL      |[LearnSQL](https://github.com/saifobe/reading-notes/blob/main/ReadNotes/prep/sql.md)|
 
 
 ## Code 401 - Advanced Software Development
