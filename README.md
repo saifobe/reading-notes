@@ -1,6 +1,12 @@
 # Reading Notes
-## Code 401 - Advanced Software Development
+## prep course
 
+| Repository  |     Link    |
+| ----------- | ----------- |
+|    SQL      |[LearnSQL]( )|
+
+
+## Code 401 - Advanced Software Development
 
 ### Reading Table 
 
