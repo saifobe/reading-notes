@@ -33,4 +33,4 @@ Hard work and fast Learning
 
 3-Seek help: Don't be afraid to ask for help. Reach out to a colleague, mentor, or an online community for assistance
 
-
+https://github.com/saifobe/reading-notes/blob/main/ReadNotes/prep/Engineering%20Reading.md
