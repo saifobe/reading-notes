@@ -11,4 +11,4 @@ Different data structures have different strengths and weaknesses in terms of th
 
 By analyzing the operations that will be performed on the data and their frequency, you can determine which data structure is best suited for the problem. It's important to choose a data structure that provides the necessary functionality while also being efficient in terms of time complexity for the operations that will be performed most frequently.
 
-(https://github.com/saifobe/reading-notes/blob/main/ReadNotes/prep/DataStructuresAndAlgorithms.md)
+https://github.com/saifobe/reading-notes/blob/main/ReadNotes/prep/DataStructuresAndAlgorithms.md
