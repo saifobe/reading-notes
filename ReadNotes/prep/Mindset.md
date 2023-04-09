@@ -29,6 +29,8 @@ Adopting a growth mindset can lead to greater resilience, creativity, and achiev
 #### of course it will be AI
 
 
+https://github.com/saifobe/reading-notes/edit/main/ReadNotes/prep/Mindset.md
+
 
 
 
