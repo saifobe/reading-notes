@@ -7,6 +7,7 @@
 |    Command Line      |[Command Line link](https://github.com/saifobe/reading-notes/blob/main/ReadNotes/prep/Terminal.md)|
 |    Data Structures And Algorithms     |[Data Structures](https://github.com/saifobe/reading-notes/blob/main/ReadNotes/prep/DataStructuresAndAlgorithms.md)|
 |    Engineering Reading    |[Engineering Reading](https://github.com/saifobe/reading-notes/blob/main/ReadNotes/prep/Engineering%20Reading.md)|
+|    The Growth Mindset      |[Mindset](https://github.com/saifobe/reading-notes/blob/main/ReadNotes/prep/Mindset.md)|
 
 
 ## Code 401 - Advanced Software Development
