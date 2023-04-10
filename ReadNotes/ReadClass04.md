@@ -108,3 +108,5 @@ Fixtures define the steps and data that constitute the arrange phase of a test (
 ## Things I want to know more about
 - Pytest Fixtures
 
+https://github.com/saifobe/reading-notes/blob/main/ReadNotes/ReadClass04.md 
+
