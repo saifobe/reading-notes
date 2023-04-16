@@ -20,4 +20,5 @@
 | Class 02    |   [Read 2](https://github.com/saifobe/reading-notes/blob/main/ReadNotes/ReadClass02.md)   |
 | Class 03    |   [Read 3](https://github.com/saifobe/reading-notes/blob/main/ReadNotes/ReadClass03.md )   |
 | Class 04    |   [Read 4](./ReadNotes/ReadClass04.md)   |
-|Linked list  |   [Linked list ](/ReadLinkedList.md)   |
+|Linked list / 05 |   [Linked list ](/ReadLinkedList.md)   |
+| Class 06    |   [Read 6](./ReadNotes/ReadClass06.md)   |
