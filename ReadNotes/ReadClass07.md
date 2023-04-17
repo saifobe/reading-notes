@@ -18,3 +18,6 @@
 ## Describe how you would use code to calculate the probability of rolling a specific number (e.g., the probability of rolling a 6) over a large number of trials?
 
 * The probability of rolling a specific number is the number of times that number appears divided by the total number of rolls.
+
+
+https://github.com/saifobe/reading-notes/blob/main/ReadNotes/ReadClass07.md 
