@@ -45,3 +45,43 @@ print x
 >>> [x.upper() for x in ["a","b","c"]]
 ['A', 'B', 'C']
 ```
+* Example: Print numbers only from a given string
+```python
+>>> string = "Hello 12345 World"
+>>> numbers = [x for x in string if x.isdigit()]
+>>> print numbers
+['1', '2', '3', '4', '5']
+```
+* Example: Parsing a file using list comprehension
+```python
+>>> with open('file.txt') as f:
+...     lines = [line.strip() for line in f]
+```
+* Example: Using list comprehension in functions
+```python
+>>> def double(x):
+...     return x*2
+...
+>>> [double(x) for x in range(10)]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+```
+* Example: Show the first letter of each word using list comprehension
+```python
+>>> words = ['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']
+>>> [word[0] for word in words]
+['T', 'q', 'b', 'f', 'j', 'o', 't', 'l', 'd']
+```
+
+## References
+* [Python List Comprehension](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+* [Python List Comprehension](https://www.programiz.com/python-programming/list-comprehension)
+* [Python List Comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
+* [Python List Comprehension](https://www.geeksforgeeks.org/python-list-comprehension/)
+* [Python List Comprehension](https://www.datacamp.com/community/tutorials/python-list-comprehension)
+* [Python List Comprehension](https://www.python-course.eu/python3_list_comprehension.php)
+
+## Things I want to know more about
+* I want to know more about Python List Comprehension
+
+### Auther : Saif Obeidat
+
