@@ -23,3 +23,4 @@
 |Linked list / 05 |   [Linked list ](/ReadLinkedList.md)   |
 | Class 06    |   [Read 6](./ReadNotes/ReadClass06.md)   |
 | Class 07    |   [Read 7](./ReadNotes/ReadClass07.md)   |
+| Class 08    |   [Read 8](./ReadNotes/ReadClass08.md)   |
