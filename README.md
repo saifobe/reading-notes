@@ -27,3 +27,4 @@
 | Class 09    |   [Read 9](./ReadNotes/ReadClass09.md)   |
 | Stacks and Queues |   [Read Stacks and Queues](./ReadStacksAndQueues.md)   |
 | Class 11    |   [Read 11](./ReadNotes/ReadClass11.md)   |
+| Class 12    |   [Read 12](./ReadNotes/ReadClass12.md)   |
