@@ -28,3 +28,4 @@
 | Stacks and Queues |   [Read Stacks and Queues](./ReadStacksAndQueues.md)   |
 | Class 11    |   [Read 11](./ReadNotes/ReadClass11.md)   |
 | Class 12    |   [Read 12](./ReadNotes/ReadClass12.md)   |
+| Class 13    |   [Read 13](./ReadNotes/ReadClass13.md)   |
