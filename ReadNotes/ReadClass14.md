@@ -86,3 +86,46 @@ p.circle(x,y, radius=radii, fill_color=colors, fill_alpha=0.6, line_color=None)
 show(p)
 ```
 
+# seaborn
+
+## What is seaborn?
+
+Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
+## How to install seaborn?
+
+```python
+
+pip install seaborn
+```
+
+## How to use seaborn?
+
+```python
+import seaborn as sns
+sns.set_theme(style="ticks", color_codes=True)
+
+# Load the example dataset for Anscombe's quartet
+df = sns.load_dataset("anscombe")
+
+# Show the results of a linear regression within each dataset
+sns.lmplot(x="x", y="y", col="dataset", hue="dataset", data=df,
+           col_wrap=2, ci=None, palette="muted", height=4,
+           scatter_kws={"s": 50, "alpha": 1})
+```
+
+## What are the key differences between Matplotlib, Seaborn, and Bokeh libraries in terms of their features and use cases?
+
+- Matplotlib is mainly deployed for basic plotting. Visualization using Matplotlib generally consists of bars, pies, lines, scatter plots and so on. Seaborn, on the other hand, provides a variety of visualization patterns. It uses fewer syntax and has easily interesting default themes.
+
+- Bokeh is used to create interactive visualization for web browsers. It provides elegant, concise construction of versatile graphics, and affords high-performance interactivity over large or streaming datasets.
+
+## In the Seaborn library, what are the main functions to create relational, categorical, and distribution plots?
+
+- Relational plots: relplot() and scatterplot()
+
+- Categorical plots: catplot() and boxplot()
+
+- Distribution plots: displot() and histplot()
+
+
