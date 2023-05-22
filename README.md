@@ -30,3 +30,6 @@
 | Class 12    |   [Read 12](./ReadNotes/ReadClass12.md)   |
 | Class 13    |   [Read 13](./ReadNotes/ReadClass13.md)   |
 | Class 14    |   [Read 14](./ReadNotes/ReadClass14.md)   |
+| Class 15    |   [Read 15](./ReadTrees.md)   |
+| Class 16    |   [Read 16](./ReadNotes/ReadClass16.md)   |
+| Class 17    |   [Read 17](./ReadNotes/ReadClass17.md)   |

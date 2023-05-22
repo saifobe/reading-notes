@@ -57,3 +57,35 @@ A tree is a data structure that consists of nodes in a parent/child relationship
 - if root.right is not NULL
 - postOrder(root.right)
 - OUTPUT <-- root.value
+
+## Breadth First
+
+- Breadth first traversal iterates through the tree by going through each level of the tree node-by-node.
+- Traditionally, breadth first traversal uses a queue (instead of the call stack via recursion) to traverse the width/breadth of the tree.
+- Here is the pseudocode for a breadth first traversal:
+- ALGORITHM breadthFirst(root)
+- // INPUT  <-- root node
+- // OUTPUT <-- front node of queue to console
+- Queue breadth <-- new Queue()
+- breadth.enqueue(root)
+- while breadth.peek()
+- node front = breadth.dequeue()
+- OUTPUT <-- front.value
+- if front.left is not NULL
+- breadth.enqueue(front.left)
+- if front.right is not NULL
+- breadth.enqueue(front.right)
+## Binary Trees
+- A binary tree is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
+- A binary search tree is a binary tree in which every node fits a specific ordering property: all left descendents <= n < all right descendents
+- This must be true for each node n.
+- Here is an example of a Binary Tree:
+- ![Binary Tree](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BinaryTree1.PNG)
+## Binary Search Trees
+- A Binary Search Tree (BST) is a type of tree that does have some structure attached to it. In a BST, nodes are organized in the tree such that all values smaller than the root are placed to the left, and all values larger than the root are placed to the right.
+- Here is an example of a Binary Search Tree:
+- ![Binary Search Tree](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BinarySearchTree.PNG)
+## K-ary Trees
+- A K-ary tree is a tree in which each node has up to K children.
+- Here is an example of a 3-ary tree:
+- ![K-ary Tree](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/KaryTree.PNG)
