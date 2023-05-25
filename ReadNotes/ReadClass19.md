@@ -84,6 +84,16 @@ import re
 - Similarly, the regular expression {3,} matches the string that has at least three occurrences of the pattern to its left.
 - So, the regular expression {3,} is equivalent to {3}{4}{5}{6}…
 
+## Reading Questions
+1- How can you use regular expressions in Python to search for specific patterns in a string, and what is the primary library to work with them?
+- You can use the re module to search for specific patterns in a string.
+
+2- What is the purpose of the shutil library in Python, and provide an example of a common use case for file or directory management with this library?
+- The shutil module offers a number of high-level operations on files and collections of files. In particular, functions are provided which support file copying and removal.
+
+3- Explain one automation idea from the assigned material and describe how it can be implemented using Python’s regular expressions and shutil libraries.
+- You can use shutil to copy files from one directory to another. You can use regular expressions to search for specific patterns in a string.
+
 
 
 

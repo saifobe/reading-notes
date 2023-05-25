@@ -33,3 +33,5 @@
 | Class 15    |   [Read 15](./ReadTrees.md)   |
 | Class 16    |   [Read 16](./ReadNotes/ReadClass16.md)   |
 | Class 17    |   [Read 17](./ReadNotes/ReadClass17.md)   |
+| Class 18    |   [Read 18](./ReadNotes/ReadClass18.md)   |
+| Class 19    |   [Read 19](./ReadNotes/ReadClass19.md)   |

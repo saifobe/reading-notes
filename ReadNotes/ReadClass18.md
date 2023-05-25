@@ -44,3 +44,6 @@ The Vigenère Cipher is one of the most difficult ciphers to crack, even with fr
 
 To crack the Vigenère Cipher, you can simply try all possible keywords and see which one makes sense. For example, if you try the keyword "dog", then you would use the Caesar Cipher with a shift of 3 for the first letter, a shift of 14 for the second letter, and a shift of 6 for the third letter.
 
+## Things I want to know more about?
+
+- I want to know more about the Vigenère Cipher and how it works.
