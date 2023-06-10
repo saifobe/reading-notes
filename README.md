@@ -35,3 +35,4 @@
 | Class 17    |   [Read 17](./ReadNotes/ReadClass17.md)   |
 | Class 18    |   [Read 18](./ReadNotes/ReadClass18.md)   |
 | Class 19    |   [Read 19](./ReadNotes/ReadClass19.md)   |
+| Class 26    |   [Read 26](./ReadNotes/ReadClass26.md)   |
