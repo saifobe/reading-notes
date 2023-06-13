@@ -37,3 +37,5 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 ### What is the difference between Bootstrap and Tailwind?
 Bootstrap is a framework for building responsive, mobile-first sites. Tailwind is a utility-first CSS framework for rapidly building custom user interfaces. Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
+### What is the difference between Django and Flask?
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
