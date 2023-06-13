@@ -27,3 +27,9 @@ Django Admin is a built-in app that allows you to perform CRUD operations on you
 
 ### Briefly outline the key components and workflow of a Django application, as discussed in the Beginner’s Guide to Django. How do these components interact with each other to create a functional web application?
 - Django ORM: Django ORM is a way to interact with the database using Python code. It allows you to create, retrieve, update, and delete records from the database by calling Python code instead of writing SQL queries.
+
+- Django Admin: Django Admin is a built-in app that allows you to perform CRUD operations on your models. It is a quick and easy way to manage your database.
+
+- Django Views: Django views are Python functions that take a web request and return a web response. They are the bridge between models and templates.
+
+- Django Templates: Django templates are HTML files that contain placeholders for dynamic data. They are rendered by views and displayed in the browser.
