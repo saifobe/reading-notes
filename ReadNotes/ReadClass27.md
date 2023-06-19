@@ -32,3 +32,5 @@ Django Admin is a built-in app that allows you to perform CRUD operations on you
 - Django Views: Django views are Python functions that take a web request and return a web response. They are the bridge between models and templates.
 
 - Django Templates: Django templates are HTML files that contain placeholders for dynamic data. They are rendered by views and displayed in the browser.
+
+### Things I want to know more about? More about Django models and how to use them.
