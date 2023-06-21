@@ -39,3 +39,4 @@
 | Class 27    |   [Read 27](./ReadNotes/ReadClass27.md)   |
 | Class 28    |   [Read 28](./ReadNotes/ReadClass28.md)   |
 | Class 29    |   [Read 29](./ReadNotes/ReadClass29.md)   |
+| Hash Tables |   [Hash Tables](./ReadHashTable.md)   |
