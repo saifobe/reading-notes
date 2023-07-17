@@ -46,3 +46,4 @@
 | Class 34    |   [Read 34](./ReadNotes/ReadClass34.md)   |
 | Graphs |   [Graphs](/ReadGraphes.md)   |
 | Class 36    |   [Read 36](./ReadNotes/ReadClass36.md)   |
+| Class 37    |   [Read 37](./ReadNotes/ReadClass37.md)   |
