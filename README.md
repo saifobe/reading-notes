@@ -48,3 +48,4 @@
 | Class 36    |   [Read 36](./ReadNotes/ReadClass36.md)   |
 | Class 37    |   [Read 37](./ReadNotes/ReadClass37.md)   |
 | Class 38    |   [Read 38](./ReadNotes/ReadClass38.md)   |
+| Class 39    |   [Read 39](./ReadNotes/ReadClass39.md)   |
